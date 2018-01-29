@@ -5,3 +5,10 @@ C:\Users\USER\source\repos\Far_full\Far_full\obj\Debug\Far_full.csprojResolveAss
 C:\Users\USER\source\repos\Far_full\Far_full\obj\Debug\Far_full.csproj.CoreCompileInputs.cache
 C:\Users\USER\source\repos\Far_full\Far_full\obj\Debug\Far_full.exe
 C:\Users\USER\source\repos\Far_full\Far_full\obj\Debug\Far_full.pdb
+C:\Users\USER\Desktop\pp\PP2\Week3\Far_full\Far_full\bin\Debug\Far_full.exe.config
+C:\Users\USER\Desktop\pp\PP2\Week3\Far_full\Far_full\bin\Debug\Far_full.exe
+C:\Users\USER\Desktop\pp\PP2\Week3\Far_full\Far_full\bin\Debug\Far_full.pdb
+C:\Users\USER\Desktop\pp\PP2\Week3\Far_full\Far_full\obj\Debug\Far_full.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\pp\PP2\Week3\Far_full\Far_full\obj\Debug\Far_full.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\pp\PP2\Week3\Far_full\Far_full\obj\Debug\Far_full.exe
+C:\Users\USER\Desktop\pp\PP2\Week3\Far_full\Far_full\obj\Debug\Far_full.pdb

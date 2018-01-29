@@ -15,11 +15,9 @@ namespace prime
         }
         public static void Main(string[] args)
         {
-            string line = Console.ReadLine();//считываем строку
-            string[] values = line.Split(' ');//разделяем на отдельные строки, используя функцию Split
-            for (int i = 0; i < values.Length; ++i)
+            for (int i = 0; i < args.Length; ++i)
             {
-                if (prime(int.Parse(values[i]))) Console.WriteLine(values[i]);//проверяем, является ли число простым и при верности данного утверждения выводим наше число
+                if (prime(int.Parse(args[i]))) Console.WriteLine(args[i]);//проверяем, является ли число простым и при верности данного утверждения выводим наше число
             }
         }
     }

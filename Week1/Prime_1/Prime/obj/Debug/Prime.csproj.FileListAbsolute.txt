@@ -4,3 +4,9 @@ C:\Users\USER\Desktop\pp\c#\piazza\W1\Prime\Prime\bin\Debug\Prime.pdb
 C:\Users\USER\Desktop\pp\c#\piazza\W1\Prime\Prime\obj\Debug\Prime.csproj.CoreCompileInputs.cache
 C:\Users\USER\Desktop\pp\c#\piazza\W1\Prime\Prime\obj\Debug\Prime.exe
 C:\Users\USER\Desktop\pp\c#\piazza\W1\Prime\Prime\obj\Debug\Prime.pdb
+C:\Users\USER\Desktop\pp\PP2\Week1\Prime_1\Prime\obj\Debug\Prime.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\pp\PP2\Week1\Prime_1\Prime\obj\Debug\Prime.exe
+C:\Users\USER\Desktop\pp\PP2\Week1\Prime_1\Prime\obj\Debug\Prime.pdb
+C:\Users\USER\Desktop\pp\PP2\Week1\Prime_1\Prime\bin\Debug\Prime.exe.config
+C:\Users\USER\Desktop\pp\PP2\Week1\Prime_1\Prime\bin\Debug\Prime.exe
+C:\Users\USER\Desktop\pp\PP2\Week1\Prime_1\Prime\bin\Debug\Prime.pdb

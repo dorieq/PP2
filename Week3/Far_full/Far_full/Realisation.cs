@@ -50,7 +50,7 @@ class Realisation
         Console.BackgroundColor = ConsoleColor.Black;
         Console.ForegroundColor = ConsoleColor.White;
         Console.WriteLine("Welcome!");
-        Console.WriteLine(mode);
+        Console.WriteLine(LastDir.elements.Count+ " items in this Directory");
         Console.WriteLine(DateTime.Now);
     }
 
@@ -59,32 +59,15 @@ class Realisation
         Console.BackgroundColor = ConsoleColor.Black;
         Console.Clear();
         Console.ForegroundColor = ConsoleColor.Red;
-        FileStream fs = null;
-        StreamReader sr = null;
-        try
-        {
-            fs = new FileStream(LastDir.GetSelectedElementInfo(), FileMode.Open, FileAccess.Read);
-            sr = new StreamReader(fs);
-
-            Console.WriteLine(sr.ReadToEnd());
-
-        }
+            try
+            {
+                string line = File.ReadAllText(LastDir.GetSelectedElementInfo());
+                Console.WriteLine(line);
+            }
         catch (Exception e)
         {
             Console.WriteLine("Why are you try?");
 
-        }
-        finally
-        {
-            if (sr != null)
-            {
-                sr.Close();
-            }
-
-            if (fs != null)
-            {
-                fs.Close();
-            }
         }
     }
 
