@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\pp\c#\piazza\W2\Maxmin\Maxmin\bin\Debug\Maxmin.exe.config
+C:\Users\USER\Desktop\pp\c#\piazza\W2\Maxmin\Maxmin\bin\Debug\Maxmin.exe
+C:\Users\USER\Desktop\pp\c#\piazza\W2\Maxmin\Maxmin\bin\Debug\Maxmin.pdb
+C:\Users\USER\Desktop\pp\c#\piazza\W2\Maxmin\Maxmin\obj\Debug\Maxmin.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\pp\c#\piazza\W2\Maxmin\Maxmin\obj\Debug\Maxmin.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\pp\c#\piazza\W2\Maxmin\Maxmin\obj\Debug\Maxmin.exe
+C:\Users\USER\Desktop\pp\c#\piazza\W2\Maxmin\Maxmin\obj\Debug\Maxmin.pdb

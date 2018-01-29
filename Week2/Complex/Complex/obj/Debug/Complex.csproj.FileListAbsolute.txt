@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\pp\c#\piazza\W2\Complex\Complex\bin\Debug\Complex.exe.config
+C:\Users\USER\Desktop\pp\c#\piazza\W2\Complex\Complex\bin\Debug\Complex.exe
+C:\Users\USER\Desktop\pp\c#\piazza\W2\Complex\Complex\bin\Debug\Complex.pdb
+C:\Users\USER\Desktop\pp\c#\piazza\W2\Complex\Complex\obj\Debug\Complex.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\pp\c#\piazza\W2\Complex\Complex\obj\Debug\Complex.exe
+C:\Users\USER\Desktop\pp\c#\piazza\W2\Complex\Complex\obj\Debug\Complex.pdb

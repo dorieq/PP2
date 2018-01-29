@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\pp\c#\piazza\W2\MinPrime\MinPrime\bin\Debug\MinPrime.exe.config
+C:\Users\USER\Desktop\pp\c#\piazza\W2\MinPrime\MinPrime\bin\Debug\MinPrime.exe
+C:\Users\USER\Desktop\pp\c#\piazza\W2\MinPrime\MinPrime\bin\Debug\MinPrime.pdb
+C:\Users\USER\Desktop\pp\c#\piazza\W2\MinPrime\MinPrime\obj\Debug\MinPrime.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\pp\c#\piazza\W2\MinPrime\MinPrime\obj\Debug\MinPrime.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\pp\c#\piazza\W2\MinPrime\MinPrime\obj\Debug\MinPrime.exe
+C:\Users\USER\Desktop\pp\c#\piazza\W2\MinPrime\MinPrime\obj\Debug\MinPrime.pdb

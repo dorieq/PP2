@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\piazza\W1\classstudent\classstudent\bin\Debug\netcoreapp2.0\classstudent.deps.json
+C:\Users\USER\source\repos\piazza\W1\classstudent\classstudent\bin\Debug\netcoreapp2.0\classstudent.runtimeconfig.json
+C:\Users\USER\source\repos\piazza\W1\classstudent\classstudent\bin\Debug\netcoreapp2.0\classstudent.runtimeconfig.dev.json
+C:\Users\USER\source\repos\piazza\W1\classstudent\classstudent\bin\Debug\netcoreapp2.0\classstudent.dll
+C:\Users\USER\source\repos\piazza\W1\classstudent\classstudent\bin\Debug\netcoreapp2.0\classstudent.pdb
+C:\Users\USER\source\repos\piazza\W1\classstudent\classstudent\obj\Debug\netcoreapp2.0\classstudent.csprojResolveAssemblyReference.cache
+C:\Users\USER\source\repos\piazza\W1\classstudent\classstudent\obj\Debug\netcoreapp2.0\classstudent.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\piazza\W1\classstudent\classstudent\obj\Debug\netcoreapp2.0\classstudent.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\piazza\W1\classstudent\classstudent\obj\Debug\netcoreapp2.0\classstudent.AssemblyInfo.cs
+C:\Users\USER\source\repos\piazza\W1\classstudent\classstudent\obj\Debug\netcoreapp2.0\classstudent.dll
+C:\Users\USER\source\repos\piazza\W1\classstudent\classstudent\obj\Debug\netcoreapp2.0\classstudent.pdb
